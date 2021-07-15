@@ -1,0 +1,6 @@
+,City,Country,Date,Latitude,Longitude,Weather,Main_Weather,Feels_like,temp,max_temp,min_temp,Wind_Speed
+0,Delhi,IN,15-07-2021,28.6667,77.2167,Haze,haze,41.6,35.05,35.05,35.05,2.06
+1,Shanghai,CN,15-07-2021,31.2222,121.4581,Clear,clear sky,41.92,34.92,34.92,32.93,6.0
+2,Sao Paulo,BR,15-07-2021,-23.5475,-46.6361,Clouds,scattered clouds,13.34,13.98,17.47,8.93,1.54
+3,Mexico City,MX,15-07-2021,19.4285,-99.1277,Clouds,overcast clouds,15.22,15.67,16.64,12.25,2.68
+4,Dhaka,BD,15-07-2021,23.7104,90.4074,Haze,haze,38.97,31.99,31.99,31.99,4.12
